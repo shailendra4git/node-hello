@@ -4,3 +4,4 @@ applications:
     disk_quota: 64M
     host: mynodeapp
     buildpack: nodejs_buildpack
+    command: "node server.js"
